@@ -1,9 +1,6 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "GTMSessionFetcher/Core": [
-      "~> 1.1"
-    ],
     "GoogleDataTransport": [
       "~> 9.0"
     ],
